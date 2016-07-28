@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-28T15:28:38.653Z'
+datePublished: '2016-07-28T15:29:56.327Z'
+sourcePath: _posts/2016-07-28-exclusive-hyundai-pricing.md
 inFeed: true
 isBasedOnUrl: 'http://www.greenvillehyundai.com'
 keywords:
@@ -14,30 +15,23 @@ keywords:
   - auto
   - new
 related: []
-author:
-  - name: Greenville Hyundai
-    url: null
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-07-28T15:24:30.875Z'
+dateModified: '2016-07-28T15:29:54.164Z'
 title: Exclusive Hyundai Pricing
 app_links: []
-publisher:
-  url: 'http://www.greenvillehyundai.com'
-  name: Greenvillehyundai
-  favicon: >-
-    http://static.dealer.com/v8/global/images/site-favicon-default.ico?1356028138000
-  domain: www.greenvillehyundai.com
+publisher: {}
 description: >-
   This month we bring our members exclusive unpublished vehicle prices in
   Greenville!
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-28-exclusive-hyundai-pricing.md
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bce94fde-91a4-4d82-8a1f-f8c7adcd4cdd.jpg)
+
 # Exclusive Hyundai Pricing
 
 This month we bring our members exclusive unpublished vehicle prices in Greenville!
