@@ -1,4 +1,3 @@
-layout_spectrum: 0.41763519565574825
 typography_spectrum: 0.12322714691981673
 color:
   brandStrength: 0.6763451481238008
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.41763519565574825
 name: TexasBuyers.club
 title: Best Vehicle Prices in Texas
+description: We work with dealers to bring you unpublished sale prices
