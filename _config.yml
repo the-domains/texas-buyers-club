@@ -1,16 +1,30 @@
+name: TexasBuyers.club
+favicon: null
+layout_spectrum: 0.97613
 typography_spectrum: 0.12322714691981673
+title: Exclusive Unpublished Vehicle Prices in Texas
+description: We work with OEM automotive dealers to bring you unpublished sale prices
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.6763451481238008
-  lightness: 0.27400284144096076
-  saturation: 0.4434966938570142
-  rhythmicContrast: 0.045840573497116566
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.41763519565574825
-name: TexasBuyers.club
-title: Exclusive Unpublished Vehicle Prices in Texas
-description: We work with OEM automotive dealers to bring you unpublished sale prices
+  brandStrength: 0.6763451481238008
+  lightness: 0.27400284144096076
+  saturation: 0.4434966938570142
+  rhythmicContrast: 0.045840573497116566
+purpose: []
